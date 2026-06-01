@@ -13,33 +13,18 @@
 
 ## 🧠 About Me
 
-```python
-adam = {
-    "name"       : "Adam Ahmed Abdelbaset",
-    "age"        : 19,
-    "location"   : "Cairo, Egypt 🇪🇬",
-    "education"  : "B.Sc. Software Engineering @ Ain Shams University (2029)",
-    "status"     : "Open to internships & collaborations 🚀",
-    "languages"  : ["Arabic 🇪🇬 (Native)", "English 🇬🇧 (Fluent)"],
-    "hobbies"    : ["Building things", "Community events", "Tech writing"],
-}
-```
-
-> Motivated 19-year-old software engineering student with a love for code, community, and creativity. I'm always looking for opportunities to grow, collaborate, and ship things that matter.
+As a Software Engineering student at Ain Shams University, I am driven to build a career as a Software Engineer with a strong focus on developing software from the ground up. I have gained practical experience in C++ and have applied my skills through real university projects, which gave me a solid understanding of how software is structured and delivered. I am committed to problem solving, consistently challenging myself with programming problems to strengthen my logical thinking and technical ability. I collaborate effectively within teams, communicate with confidence, and adapt readily to new challenges and environments. I am ambitious, detail-oriented, and continuously seeking opportunities to grow both technically and professionally. I have a clear vision for my future in technology and the determination to pursue it.
 
 ---
 
 ## 🛠️ Tech Stack
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 
 ---
@@ -51,41 +36,16 @@ adam = {
 
 An end-to-end platform for managing academic operations — courses, students, and faculty. Currently in active development as a core personal project.
 
-`In Progress` · `Software Engineering` · `Full Stack`
-
----
-
-## 💼 Experience
-
-**Business Development Specialist** · *LocHere (Internship)*
-`Jul 2023 – Oct 2023`
-
-- 🎯 Lead generation via market research & HubSpot CRM management
-- 📧 B2B cold outreach through LinkedIn & email to reach decision-makers
-- 📊 Competitor analysis & deal pipeline management
-
----
-
-## 🤝 Volunteering & Community
-
-| Organization | Role | Period |
-|---|---|---|
-| 🌍 **Resala Charity – STEM Branch** | Volunteer | Jun 2024 – Jun 2025 |
-| 🎓 **OBM Education** | Ambassador | Mar 2023 – Mar 2024 |
-| 💻 **Google Developers Social Club · MTI** | PR Member & Web Content Writer | Nov 2022 – Nov 2024 |
+`In Progress` · `C++`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CybrAdm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=38d39f&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CybrAdm&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=38d39f&fire=f0883e&currStreakLabel=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybrAdm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybradm/cybradm/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/cybradm/cybradm/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ---
 
