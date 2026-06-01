@@ -42,13 +42,10 @@ An end-to-end platform for managing academic operations — courses, students, a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CybrAdm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=38d39f&text_color=c9d1d9" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=CybrAdm&theme=dark&hide_border=true&background=0d1117&ring=38d39f&fire=f0883e&currStreakLabel=c9d1d9" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybrAdm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=CybrAdm&show_icons=true&theme=github_dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=CybrAdm&theme=dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CybrAdm&layout=compact&theme=github_dark)
+
 ---
 
 ## 📫 Let's Connect!
