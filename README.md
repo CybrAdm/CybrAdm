@@ -46,6 +46,13 @@ An end-to-end platform for managing academic operations — courses, students, a
 ![Streak](https://streak-stats.demolab.com?user=CybrAdm&theme=dark)
 ![Langs](https://github-readme-stats-eight-roan.vercel.app/api/top-langs/?username=CybrAdm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
 ---
 
 ## 📫 Let's Connect!
