@@ -27,12 +27,25 @@ As a Software Engineering student at Ain Shams University, I am driven to build 
 
 ## 🚀 Featured Projects
 
-### 🏫 College Management System (CMS)
-> *April 2026 – Present*
+### 🏫 College Management System (Console)
+> *April 2026 – June 2026*
 
-An end-to-end platform for managing academic operations — courses, students, and faculty. Currently in active development as a core personal project.
+A console-based application for managing academic operations — courses, students, and faculty grading, scheduling, and appointments.
 
-`In Progress` · `C++`
+![Status](https://img.shields.io/badge/status-completed-brightgreen) `C++`
+
+🔗 [Repository](https://github.com/CybrAdm/College-Management-System)
+
+### 🎓 College Management System (GUI)
+> *April 2026 – June 2026*
+
+A desktop version of the College Management System, rebuilt with a full graphical interface using Qt — featuring role-based dashboards, real-time notifications, dark/light themes, and automatic data persistence.
+
+![Status](https://img.shields.io/badge/status-completed-brightgreen) `C++` `Qt`
+
+🔗 [Repository](https://github.com/CybrAdm/College-Management-System-GUI)
+
+> 💡 Both projects share the same core system design — the first is a console-based implementation, and the second rebuilds it into a full desktop GUI application.
 
 ---
 
