@@ -19,6 +19,9 @@ As a Software Engineering student at Ain Shams University, I am driven to build 
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
@@ -47,11 +50,24 @@ A desktop version of the College Management System, rebuilt with a full graphica
 
 > 💡 Both projects share the same core system design — the first is a console-based implementation, and the second rebuilds it into a full desktop GUI application.
 
----
+### 💰 FLOOSY
+> *August 2026*
 
-## 📊 GitHub Stats
+A Flutter personal finance app for income, expenses, budgets, and reports — with Firebase auth, English/Arabic (RTL), dark/light themes, and per-user cloud sync.
 
-![Streak](https://streak-stats.demolab.com?user=CybrAdm&theme=dark)
+![Status](https://img.shields.io/badge/status-completed-brightgreen) `Flutter` `Dart` `Firebase`
+
+🔗 [Repository](https://github.com/CybrAdm/Floosy)
+
+### 🏦 SIC Smart Bank
+> *August 2026*
+
+A Python CLI banking simulation for Samsung Innovation Campus (Chapter 2) — registration/login, deposit/withdraw/transfer in EGP, USD, and SAR, ATM grid, admin reports, and JSON save/load.
+
+![Status](https://img.shields.io/badge/status-completed-brightgreen) `Python`
+
+🔗 [Repository](https://github.com/CybrAdm/SIC-Smart-Bank-System)
+
 
 ---
 
